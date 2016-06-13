@@ -6,7 +6,7 @@
 // class -- this is NOT a comprehensive set of tests.  This is just a
 // sample, which should help check whether your function declarations are
 // appropriate, and can test a few sample cases.
-
+ 
 #include <iostream>
 #include "mixed.h"
 

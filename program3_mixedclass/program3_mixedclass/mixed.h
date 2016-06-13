@@ -2,6 +2,14 @@
 #define MIXED_H_
 #include <iostream>
 using namespace std;
+
+// Austin Tyler Gottselig
+// Program 3
+// Mixed Class.h
+
+
+
+
 class Mixed
 {
 	friend ostream& operator<< (ostream& s, Mixed& f);

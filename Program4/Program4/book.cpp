@@ -6,7 +6,10 @@ using namespace std;
 
 Book::Book()
 {
-
+	strcpy(title, "Default");
+	strcpy(author, "Default");
+	type=COMPUTER;
+	price=13.37;
 }
 // default constructor, sets up blank book object
 
